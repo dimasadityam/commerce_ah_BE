@@ -1,0 +1,7 @@
+Data yang didapat dari akun google
+{
+  id:'xxxxx',
+  displayName: 'fullname',
+  name: { familyName: 'lastname', givenName: 'firstname' }
+  emails: [ { value: 'email', verified: true } ]
+}
